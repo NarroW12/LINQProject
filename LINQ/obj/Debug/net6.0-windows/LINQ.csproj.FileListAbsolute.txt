@@ -1,0 +1,17 @@
+C:\Users\jakub\Desktop\hawryluk\lab6\LINQ\LINQ\bin\Debug\net6.0-windows\LINQ.exe
+C:\Users\jakub\Desktop\hawryluk\lab6\LINQ\LINQ\bin\Debug\net6.0-windows\LINQ.deps.json
+C:\Users\jakub\Desktop\hawryluk\lab6\LINQ\LINQ\bin\Debug\net6.0-windows\LINQ.runtimeconfig.json
+C:\Users\jakub\Desktop\hawryluk\lab6\LINQ\LINQ\bin\Debug\net6.0-windows\LINQ.dll
+C:\Users\jakub\Desktop\hawryluk\lab6\LINQ\LINQ\bin\Debug\net6.0-windows\LINQ.pdb
+C:\Users\jakub\Desktop\hawryluk\lab6\LINQ\LINQ\obj\Debug\net6.0-windows\LINQ.csproj.AssemblyReference.cache
+C:\Users\jakub\Desktop\hawryluk\lab6\LINQ\LINQ\obj\Debug\net6.0-windows\LINQ.Form1.resources
+C:\Users\jakub\Desktop\hawryluk\lab6\LINQ\LINQ\obj\Debug\net6.0-windows\LINQ.csproj.GenerateResource.cache
+C:\Users\jakub\Desktop\hawryluk\lab6\LINQ\LINQ\obj\Debug\net6.0-windows\LINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jakub\Desktop\hawryluk\lab6\LINQ\LINQ\obj\Debug\net6.0-windows\LINQ.AssemblyInfoInputs.cache
+C:\Users\jakub\Desktop\hawryluk\lab6\LINQ\LINQ\obj\Debug\net6.0-windows\LINQ.AssemblyInfo.cs
+C:\Users\jakub\Desktop\hawryluk\lab6\LINQ\LINQ\obj\Debug\net6.0-windows\LINQ.csproj.CoreCompileInputs.cache
+C:\Users\jakub\Desktop\hawryluk\lab6\LINQ\LINQ\obj\Debug\net6.0-windows\LINQ.dll
+C:\Users\jakub\Desktop\hawryluk\lab6\LINQ\LINQ\obj\Debug\net6.0-windows\refint\LINQ.dll
+C:\Users\jakub\Desktop\hawryluk\lab6\LINQ\LINQ\obj\Debug\net6.0-windows\LINQ.pdb
+C:\Users\jakub\Desktop\hawryluk\lab6\LINQ\LINQ\obj\Debug\net6.0-windows\LINQ.genruntimeconfig.cache
+C:\Users\jakub\Desktop\hawryluk\lab6\LINQ\LINQ\obj\Debug\net6.0-windows\ref\LINQ.dll
